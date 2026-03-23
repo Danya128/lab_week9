@@ -1,7 +1,7 @@
 extends Node2D
-# Hello from Daniil
+# Hello from Daniil from new branch
 
-# Hello from Daniil One more time
+
 
 func _ready() -> void:
 	pass 
